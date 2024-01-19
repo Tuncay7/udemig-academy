@@ -9,5 +9,4 @@ CSS
 ![](ekran.gif)
 
 
-# udemig-academy
-# udemig-academy
+
